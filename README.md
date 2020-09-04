@@ -5,5 +5,5 @@ This repository contains the code for the 2020 ECCE paper. This code implemented
 
 Usage:
 
-Run 'preprocessing_normalization.m' in Matlab under the raw data directory to do the preprocessing and normalization.
-Run 'main.py' to train the model and get the test result. Note that all the methods are included in one file, feel free to change and uncomment the one you don't need.
+- Run 'preprocessing_normalization.m' in Matlab under the raw data directory to do the preprocessing and normalization.
+- Run 'main.py' to train the model and get the test result. Note that all the methods are included in one file, feel free to change and uncomment the one you don't need.
